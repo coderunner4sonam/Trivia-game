@@ -94,7 +94,7 @@ const App: React.FC = () => {
                   type="text"
                   placeholder="please write your answer"
                   style={{
-                    width: "800px",
+                    width: "500px",
                     height: "60px",
                     textAlign: "center",
                     borderRadius: "15px",
